@@ -20,26 +20,6 @@ trust:
 -   *Proof of delivery and trading history* can be difficult for new
     counterparties to verify.
 
-These barrier…
-[4:52 AM, 11/16/2026] JOSEPH: You can copy the entire block above and paste it directly into the GitHub README editor.
-[4:53 AM, 11/16/2026] JOSEPH: Here’s a clean, professional version of your README, ready to copy and paste:
-
-markdown
-# AbaTrust
-
-**USDC-powered escrow and on-chain reputation for fabric and garment trading in Aba, Nigeria.**
-
-AbaTrust is a prototype platform designed to reduce payment and trust risks in bulk fabric transactions across Aba’s fabric and garment markets, particularly Ariaria and related wholesale clusters.
-
-## The Problem
-
-Bulk fabric deals in Aba often rely on personal relationships and informal trust, which creates significant friction:
-
-- **Buyers** may pay upfront and receive counterfeit, substituted, or poor-quality fabric.
-- **Sellers** may deliver goods and face delayed payment or non-payment.
-- **Cash and bank transfers** introduce security risks, high costs, and settlement delays.
-- **Proof of delivery and trading history** is difficult for new counterparties to verify.
-
 These barriers frequently prevent otherwise valuable transactions from taking place.
 
 ## The Proposed Solution
